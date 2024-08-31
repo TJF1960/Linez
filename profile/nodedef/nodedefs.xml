@@ -1,0 +1,34 @@
+<nodeDefs>
+  <nodeDef id="linez" nodeType="139" nls="str">
+    <sts>
+      <st id="ST" editor="bool" />
+      <st id="GV0" editor="raw" />
+      <st id="GV1" editor="raw" /> <!-- Serial Number parsed value -->
+      <st id="GV2" editor="raw" /> <!-- Grid Power -->
+      <st id="GV3" editor="raw" /> <!-- Solar Power -->
+      <st id="GV4" editor="raw" /> <!-- Building Power -->
+      <st id="GV5" editor="raw" uom="73"/> <!-- Power A -->
+      <st id="GV6" editor="raw" uom="73"/> <!-- Power B -->
+      <st id="GV7" editor="raw" uom="73"/> <!-- Power AB -->
+      <st id="GV8" editor="raw" uom="73"/> <!-- Power C -->
+      <st id="GV9" editor="raw" uom="73"/> <!-- Power D -->
+      <st id="GV10" editor="raw" uom="73"/> <!-- Power CD -->
+      <st id="GV11" editor="raw" uom="72"/> <!-- Voltage A -->
+      <st id="GV12" editor="raw" uom="72"/> <!-- Voltage B -->
+      <st id="GV13" editor="raw" uom="72"/> <!-- Voltage AB -->
+      <st id="GV14" editor="raw" uom="1"/>  <!-- Current A -->
+      <st id="GV15" editor="raw" uom="1"/>  <!-- Current B -->
+      <st id="GV16" editor="raw" uom="1"/>  <!-- Current C -->
+      <st id="GV17" editor="raw" uom="1"/>  <!-- Current D -->
+      <st id="GV18" editor="raw" uom="53"/> <!-- Power Factor -->
+      <st id="GV19" editor="raw" uom="90"/> <!-- Frequency -->
+    </sts>
+    <cmds>
+      <sends />
+      <accepts>
+        <cmd id="QUERY" />
+      </accepts>
+    </cmds>
+  </nodeDef>
+</nodeDefs>
+
