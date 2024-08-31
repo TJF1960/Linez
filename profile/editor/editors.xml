@@ -1,0 +1,13 @@
+<editors>
+  <editor id="bool">
+    <range uom="2" subset="0,1" />
+  </editor>
+  <editor id="raw">
+    <range uom="72" min="0" max="10000" prec="0" /> <!-- Updated UOM for Voltage -->
+    <range uom="73" min="0" max="10000" prec="0" /> <!-- Updated UOM for Power -->
+    <range uom="1" min="0" max="10000" prec="0" />  <!-- Updated UOM for Current -->
+    <range uom="53" min="0" max="100" prec="0" />   <!-- Updated UOM for Power Factor -->
+    <range uom="90" min="0" max="100" prec="0" />   <!-- Updated UOM for Frequency -->
+  </editor>
+</editors>
+

@@ -1,0 +1,24 @@
+{
+    "name": "Linez",
+    "docs": "",
+    "type": "python3",
+    "executable": "linez.py",
+    "install": "install.sh",
+    "description": "Polls a server for power data and displays it in IoX.",
+    "shortPoll": "60",
+    "longPoll": "600",
+    "profile_version": "1.0.7",
+    "customParams": {
+        "ip_address": "Enter the IP address of the Linez device"
+    },
+    "credits": [
+        {
+            "title": "Linez Node Server",
+            "author": "TJF1960",
+            "version": "1.0.7",
+            "date": "2024-08-25",
+            "license": "MIT"
+        }
+    ]
+}
+

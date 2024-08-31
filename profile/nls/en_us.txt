@@ -1,0 +1,27 @@
+ND-linez-NAME = Linez
+ND-linez-ICON = EnergyMonitor
+
+ST-str-ST-NAME = NodeServer Connected
+ST-str-GV0-NAME = HeartBeat
+ST-str-GV1-NAME = Linez Serial Number
+ST-str-GV2-NAME = Grid Power
+ST-str-GV3-NAME = Solar Power
+ST-str-GV4-NAME = Building Power
+ST-str-GV5-NAME = Power A
+ST-str-GV6-NAME = Power B
+ST-str-GV7-NAME = Power AB
+ST-str-GV8-NAME = Power C
+ST-str-GV9-NAME = Power D
+ST-str-GV10-NAME = Power CD
+ST-str-GV11-NAME = Voltage A
+ST-str-GV12-NAME = Voltage B
+ST-str-GV13-NAME = Voltage AB
+ST-str-GV14-NAME = Current A
+ST-str-GV15-NAME = Current B
+ST-str-GV16-NAME = Current C
+ST-str-GV17-NAME = Current D
+ST-str-GV18-NAME = Power Factor
+ST-str-GV19-NAME = Frequency
+
+CMD-str-QUERY-NAME = Query
+
